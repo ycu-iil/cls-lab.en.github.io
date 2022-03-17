@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "メンバー"
+  - title: "Members"
     url: /members/    
 
-  - title: "研究概要"
+  - title: "Research"
     url: /research/
     
-  - title: "論文"
+  - title: "Publicaitons"
     url: /publications/
 
-  - title: "口頭発表等"
+  - title: "Talks"
     url: /talks/
 
-  - title: "アクセス"
+  - title: "Access"
     url: /access/
 
     
