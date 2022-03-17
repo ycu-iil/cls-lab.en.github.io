@@ -11,7 +11,7 @@ redirect_from:
 ![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/about_image.jpg?raw=true)
 
 
-English page is here.
+English page is [here](https://ycu-iil.github.io/webpage_en.github.io/).
 
 # 研究室News
 
