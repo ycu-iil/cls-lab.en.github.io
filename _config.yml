@@ -9,9 +9,9 @@
 locale                   : "日本語"
 title                    : "Computational Life Science Lab."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "CLS Lab."
 description              : &description "personal description"
-url                      : https://ycu-iil.github.io/testpage.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ycu-iil.github.io/cls-lab.en.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "生命情報科学研究室"
+  name             : "Computational Life Science Lab."
   avatar           : "members.jpg"
   bio              : "本研究室ではタンパク質、核酸、その複合体などの立体構造形成や機能発現のメカニズムを原子レベルで明らかにするために、スーパーコンピュータを用いた分子シミュレーションによる研究や、生命医科学分野に人工知能関連技術を適用する研究を行っています。さらに、それらの方法をドラッグデザインに応用する計算創薬研究を行っています。"
   location         : 
