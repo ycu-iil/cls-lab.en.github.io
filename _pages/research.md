@@ -15,8 +15,8 @@ We are also working on integrating machine learning methods with molecular simul
 
 - In Silico Drug design based on reinforcement learning and dockig simulation. ([Journal of Chemical Information and Modeling 2021](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679))
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/SBMolGen.gif?raw=true)
+![test](https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/SBMolGen.gif?raw=true)
  
 - Egg quality prediction in Pacific bluefin tuna (Thunnus orientalis) by deep neural network toward efficient aquaculture. ([Scientific Reports 2021](https://www.nature.com/articles/s41598-020-80001-0))
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/egg_quality_prediction.jpg?raw=true)
+![test](https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/egg_quality_prediction.jpg?raw=true)
