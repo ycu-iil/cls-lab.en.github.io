@@ -25,5 +25,5 @@ author_profile: true
 - Yuki Shibahashi, Project Research Assistant
 - Yuko Miyahara, Secretary
 
-# St
+# Student
 
