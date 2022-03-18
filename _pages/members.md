@@ -17,7 +17,7 @@ author_profile: true
 - Assistant Professor Toru Ekimoto [(personal page)](https://researchmap.jp/toru_ekimoto?lang=english)<br>
 <img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100">
   
-- Specially Appointed Professor　Akinori Kidera [(personal page)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
+- Akinori Kidera, Specially Appointed Professor [(personal page)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
 - Kei Moritsugu, Specially Appointed Associate Professor　
 - Tomohiro Sato, Specially Appointed Associate Professor
 - Shoichi Ishida,  Specially Appointed Assistant Professor [(personal page)](https://sishida21.github.io/about/)
