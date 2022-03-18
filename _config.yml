@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Computational Life Science Lab."
   avatar           : "members.jpg"
-  bio              : "本研究室ではタンパク質、核酸、その複合体などの立体構造形成や機能発現のメカニズムを原子レベルで明らかにするために、スーパーコンピュータを用いた分子シミュレーションによる研究や、生命医科学分野に人工知能関連技術を適用する研究を行っています。さらに、それらの方法をドラッグデザインに応用する計算創薬研究を行っています。"
+  bio              : "Our laboratory combines physicochemical molecular simulations and bioinformatics using super computers to conduct theoretical research on the three-dimensional structure and function of proteins, nucleic acids (DNA and RNA), and other biological macromolecules. We also use informatics methods such as machine learning and image processing to promote drug discovery and structural biology, as well as to broadly analyze biological and biological phenomena."
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
