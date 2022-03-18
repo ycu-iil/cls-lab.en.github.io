@@ -14,7 +14,7 @@ author_profile: true
 - Associate Professor Kei Terayama [(personal page)](https://sites.google.com/site/terayamaweb/index_e)<br>
 <img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/terayama.jpg?raw=true" width="100">
  
-- Assistant Professor Toru Ekimoto 浴本亨 [(personal page)](https://researchmap.jp/toru_ekimoto?lang=english)<br>
+- Assistant Professor Toru Ekimoto [(personal page)](https://researchmap.jp/toru_ekimoto?lang=english)<br>
 <img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100">
   
 - Specially Appointed Professor　Akinori Kidera [(personal page)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
