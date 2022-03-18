@@ -24,3 +24,4 @@ Welcome to Computational Life Science laboratory, [Yokohama City University](htt
 Our laboratory combines physicochemical molecular simulations and bioinformatics using super computers to conduct theoretical research on the three-dimensional structure and function of proteins, nucleic acids (DNA and RNA), and other biological macromolecules. We also use informatics methods such as machine learning and image processing to promote drug discovery and structural biology, as well as to broadly analyze biological and biological phenomena.
 
 
+日本語のページは[こちら](https://ycu-iil.github.io/cls-lab.jp.github.io/)
