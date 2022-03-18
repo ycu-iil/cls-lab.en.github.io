@@ -11,12 +11,12 @@ The goal of our research efforts is to elucidate the principle of three- dimensi
 
 We are also working on integrating machine learning methods with molecular simulations and experimental data to promote drug discovery and structural biology. In particular, we focus on combining reinforcement learning and optimization methods with molecular simulation to improve its computational speed and efficiency. Our research also includes applications of deep learning, such as systems for cytological diagnosis, monitoring systems for the marine environment, and methods to support the aquaculture industry.
 
-# Selected topics
+# Selected researches
 
-- In Silico Drug design based on reinforcement learning and dockig simulation. ([Journal of Chemical Information and Modeling 2021](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679))
+- In Silico Drug design based on reinforcement learning and dockig simulation. ([Journal of Chemical Information and Modeling 2021](https://pubs.acs.org/doi/10.1021/acs.jcim.1c00679))<br>
+<img src="https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/SBMolGen.gif?raw=true" width="300">
 
-![test](https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/SBMolGen.gif?raw=true)
  
 - Egg quality prediction in Pacific bluefin tuna (Thunnus orientalis) by deep neural network toward efficient aquaculture. ([Scientific Reports 2021](https://www.nature.com/articles/s41598-020-80001-0))
 
-![test](https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/egg_quality_prediction.jpg?raw=true)
+<img src="https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/egg_quality_prediction.jpg?raw=true" width="300">
