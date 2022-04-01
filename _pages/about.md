@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/about_image.jpg?raw=true)
+![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/top_simple_en.jpg?raw=true)
 
 Welcome to Computational Life Science laboratory, [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/), Japan!
 
