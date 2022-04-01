@@ -18,12 +18,14 @@ author_profile: true
 <img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/ekimoto.jpg?raw=true" width="100">
   
 - Akinori Kidera, Specially Appointed Professor [(personal page)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
-- Kei Moritsugu, Specially Appointed Associate Professor　
-- Tomohiro Sato, Specially Appointed Associate Professor
 - Shoichi Ishida,  Specially Appointed Assistant Professor [(personal page)](https://sishida21.github.io/about/)
 - Masao Inoue, PostDoc Reseacher
-- Yuki Shibahashi, Project Research Assistant
 - Yuko Miyahara, Secretary
 
+# Alumni
+- Kei Moritsugu, Specially Appointed Associate Professor　(-2022/3)
+- Tomohiro Sato, Specially Appointed Associate Professor　(-2022/3)
+- Yuki Shibahashi, Project Research Assistant　(-2022/3)
+- 
 # Student
 
