@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test](https://github.com/ycu-iil/testpage.github.io/blob/master/images/top_simple_en.jpg?raw=true)
+![test](https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/top_simple_en.jpg?raw=true)
 
 
 Welcome to Computational Life Science laboratory, [Yokohama City University](https://www-user.yokohama-cu.ac.jp/~english/), Japan!
@@ -16,7 +16,7 @@ Welcome to Computational Life Science laboratory, [Yokohama City University](htt
 # Recent News
 
 - 【Research】By combining AI and simulation, we have succeeded in the automated design and synthesis of novel organic fluorescent molecules! Published in [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abj3906)! <br>
-<img src="https://github.com/ycu-iil/testpage.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200">
+<img src="https://github.com/ycu-iil/cls-lab.en.github.io/blob/master/images/Sci_Adv_2022.jpg?raw=true" width="200">
 
 - 【Research】We have developed a machine learning-based technology that evaluates 3D structures of proteins for structural biology. Published in  [*Scientific Reports*](https://www.nature.com/articles/s41598-021-02948-y)!
 
