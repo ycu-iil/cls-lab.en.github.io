@@ -22,10 +22,25 @@ author_profile: true
 - Masao Inoue, PostDoc Reseacher
 - Yuko Miyahara, Secretary
 
+# Student
+
+### Ikeguchi group
+- D3: Naoki Ogawa
+- D2: Toshiyuki Tashiro
+- D1: Tomohide Masuda
+- M2: Mayuko Nakagawa, Natsumi Yoshida
+- M1: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
+- B4: Ao Kikuchi, Kohtaro Suzuki
+- B3: Tomoya Nabetani
+
+### Terayama group
+- D1: Shuhei Takahata
+- M2: Kayin Chin
+- M1: Yuki Murakami, Tatsuya Yoshizawa
+- B4: Tokimu Kadoi, Sayuri Hoshino
+- B3: Taiyo Toita
+
 # Alumni
 - Kei Moritsugu, Specially Appointed Associate Professor　(-2022/3)
 - Tomohiro Sato, Specially Appointed Associate Professor　(-2022/3)
 - Yuki Shibahashi, Project Research Assistant　(-2022/3)
-- 
-# Student
-
