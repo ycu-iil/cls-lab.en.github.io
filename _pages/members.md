@@ -25,20 +25,18 @@ author_profile: true
 # Student
 
 ### Ikeguchi group
-- D3: Naoki Ogawa
-- D2: Toshiyuki Tashiro
-- D1: Tomohide Masuda
-- M2: Mayuko Nakagawa, Natsumi Yoshida
-- M1: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
-- B4: Ao Kikuchi, Kohtaro Suzuki
-- B3: Tomoya Nabetani
+- D3: Naoki Ogawa, Toshiyuki Tashiro, Tomohide Masuda
+- D1: Natsumi Yoshida
+- M2: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
+- M1: Ao Kikuchi
+- B4: Tomoya Nabetani
 
 ### Terayama group
-- D1: Shuhei Takahata
-- M2: Kayin Chin
-- M1: Yuki Murakami, Tatsuya Yoshizawa
-- B4: Tokimu Kadoi, Sayuri Hoshino
-- B3: Taiyo Toita
+- D2: Shuhei Takahata
+- D1: Kayin Chin
+- M2: Yuki Murakami, Tatsuya Yoshizawa
+- M1: Tokimu Kadoi, Sayuri Hoshino
+- B4: Taiyo Toita
 
 # Alumni
 - Kei Moritsugu, Specially Appointed Associate Professor　(-2022/3)
