@@ -28,7 +28,7 @@ author_profile: true
 - D3: Naoki Ogawa, Toshiyuki Tashiro, Tomohide Masuda
 - D1: Natsumi Yoshida
 - M2: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
-- M1: Ao Kikuchi
+- M1: Hiroaki Ooeda, Ao Kikuchi
 - B4: Tomoya Nabetani
 
 ### Terayama group
