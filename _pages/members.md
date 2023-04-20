@@ -19,7 +19,7 @@ author_profile: true
   
 - Akinori Kidera, Specially Appointed Professor [(personal page)](http://www.tsurumi.yokohama-cu.ac.jp/bioinfo/self_introduction/Kidera/index.html)
 - Shoichi Ishida,  Specially Appointed Assistant Professor [(personal page)](https://sishida21.github.io/about/)
-- Masao Inoue, PostDoc Reseacher
+- Masao Inoue, Specially Appointed Assistant Professor
 - Yuko Miyahara, Secretary
 
 # Student
