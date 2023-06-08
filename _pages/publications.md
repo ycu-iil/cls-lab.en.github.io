@@ -12,7 +12,7 @@ author_profile: true
   <summary>Click to show/hide contents.</summary>
   <p></p>
   <ol>
-    <li><u>高畑 脩平</u>, 榎本 大貴, 田村 亮太, 野田 遥, <u>石田 祥一</u>, <u>寺山 慧</u>. 読み書き困難児の包括的・網羅的スクリーニング検査の開発にむけた予備的研究. 日本発達系作業療法学会誌 10(1), 15-23, 2023.</li>
+    <li><u>S. Takahata</u>, D. Enomoto, R. Tamura, H. Noda, <u>S. Ishida</u>, <u>K. Terayama</u>, "Development of comprehensive and exhaustive screening test for children with reading and writing difficulties: a pilot study," <em>Japanese Journal of Occupational Therapy in Pediatrics</em>, 10(1), 2023.</li>
     <li>T. Yoshida, J. Zhou, <u>K. Terayama</u>, D. Kitazawa, <a href="https://doi.org/10.1016/j.atech.2022.100087">"Monitoring of cage-cultured sea cucumbers using an underwater time-lapse camera and deep learning-based image analysis,"</a> <em>Smart Agricultural Technology</em>, 3, 100087, 2023.</li>
     <li>Y. Kurihara, <u>T. Ekimoto</u>, C. T. Gordon, Y. Uchijima, R. Sugiyama, T. Kitazawa, A. Iwase, R. Kotani, R. Asai, V. Pingault, <u>M. Ikeguchi</u>, J. Amiel, H. Kurihara, <a href="https://doi.org/10.1172/JCI151536">"Mandibulofacial dysostosis with alopecia results from gain-of-ET<sub>A</sub>R function via allosteric effects on ligand binding,"</a> <em>Journal of Clinical Investigation</em>, 2023.</li>
     <li>K. Sakaniwa, A. Fujimura, T. Shibata, H. Shigematsu, <u>T. Ekimoto</u>, M. Yamamoto, <u>M. Ikeguchi</u>, K. Miyake, U. Ohto, T. Shimizu, <a href="https://doi.org/10.1038/s41467-023-35844-2">"TLR3 forms a laterally aligned multimeric complex along double-stranded RNA for efficient signal transduction,"</a> <em>Nature Communications</em>, 14, 164, 2023.</li>
