@@ -26,7 +26,7 @@ author_profile: true
 
 ### Ikeguchi group
 - D3: Naoki Ogawa, Toshiyuki Tashiro, Tomohide Masuda
-- D1: Natsumi Yoshida
+- D1: Hiroyuki Ogawa, Takahumi Kudo, Natsumi Yoshida
 - M2: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
 - M1: Hiroaki Ooeda, Ao Kikuchi
 - B4: Tomoya Nabetani
