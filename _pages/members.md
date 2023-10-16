@@ -30,6 +30,7 @@ author_profile: true
 - M2: Yukina Nakai, Kenta Tanaka, Kentaro Yamamoto
 - M1: Hiroaki Ooeda, Ao Kikuchi
 - B4: Tomoya Nabetani
+- B3: Rio Usami, Aya Shimoyama
 
 ### Terayama group
 - D2: Shuhei Takahata
@@ -37,6 +38,7 @@ author_profile: true
 - M2: Yuki Murakami, Tatsuya Yoshizawa
 - M1: Tokimu Kadoi, Sayuri Hoshino
 - B4: Taiyo Toita
+- B3: Kazuto Ihori, Hikari Tomita, Torataka Nii
 
 # Alumni
 - Kei Moritsugu, Specially Appointed Associate Professor　(-2022/3)
