@@ -38,7 +38,7 @@ author_profile: true
 - M2: Yuki Murakami, Tatsuya Yoshizawa
 - M1: Tokimu Kadoi, Sayuri Hoshino
 - B4: Taiyo Toita
-- B3: Kazuto Ihori, Hikari Tomita, Torataka Nii
+- B3: Kazuto Ihori, Hikari Tomita, Takatora Nii
 
 # Alumni
 - Kei Moritsugu, Specially Appointed Associate Professor　(-2022/3)
