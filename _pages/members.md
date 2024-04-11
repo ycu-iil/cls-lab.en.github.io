@@ -34,7 +34,7 @@ author_profile: true
 ### Terayama group
 - D3: Shuhei Takahata
 - D2: Chin Ka Yin
-- D1: Yuki Murakami, Tatsuya Yoshizawa
+- D1: Yuki Murakami, Tatsuya Yoshizawa, Kiichi Yoshimura
 - M2: Tokimu Kadoi, Sayuri Hoshino
 - M1: Taiyo Toita
 - B4: Kazuto Ihori, Hikari Tomita, Takatora Nii
