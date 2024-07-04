@@ -36,7 +36,7 @@ author_profile: true
 - D2: Chin Ka Yin
 - D1: Yuki Murakami, Tatsuya Yoshizawa, Kiichi Yoshimura
 - M2: Tokimu Kadoi, Sayuri Hoshino
-- M1: Taiyo Toita
+- M1: Shotaro Oki, Taiyo Toita
 - B4: Kazuto Ihori, Hikari Tomita, Takatora Nii
 
 # Alumni
