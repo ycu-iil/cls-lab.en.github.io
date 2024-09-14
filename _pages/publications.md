@@ -14,6 +14,8 @@ author_profile: true
   <summary>Click to show/hide contents.</summary>
   <p></p>
   <ol>
+    <li>N. Sato, A. Takahashi, S. Kiyohara, <u>K. Terayama</u>, R. Tamura, F. Oba, <a href="https://doi.org/10.1002/aisy.202400253">"Target Material Property-Dependent Cluster Analysis of Inorganic Compounds"</a>, <em>Advanced Intelligent Systems</em>, 2400253, 2024.</li>
+    <li>R. Tamura, H. Morito, G. Deffrennes, M. Naito, Y. Nose, T. Abe, <u>Kei Terayama</u>, <a href="https://doi.org/10.1038/s43246-024-00580-7">"AIPHAD, an active learning web application for visual understanding of phase diagrams"</a>, <em>Communications Materials</em>, 5, 139, 2024.</li>
     <li>K. Mizuno, <u>K. Terayama</u>, <u>S. Ishida</u>, J. A. Godbold, M. Solan. <a href="https://doi.org/10.1098/rsos.240042">"Combining three-dimensional acoustic coring and a convolutional neural network to quantify species contributions to benthic ecosystems"</a>, <em>Royal Society Open Science</em>, 11, 6, 11240042, 2024.</li>
     <li><u>M. Inoue</u>, <u>T. Ekimoto</u>, T. Yamane, <u>M. Ikeguchi</u>. <a href="https://doi.org/10.1021/acs.jcim.4c00172">"Computational Analysis of Activation of Dimerized Epidermal Growth Factor Receptor Kinase Using the String Method and Markov State Model"</a>, <em>Journal of Chemical Information and Modeling</em>, 64, 9, 3884-3895, 2024.</li>
     <li><u>K.-Y. Chin</u>, <u>S. Ishida</u>, Y. Sasaki, <u>K. Terayama</u>. <a href="https://doi.org/10.1186/s12859-024-05764-z">"Predicting condensate formation of protein and RNA under various environmental conditions"</a>, <em>BMC Bioinformatics</em>, 25, 143, 2024.</li>
