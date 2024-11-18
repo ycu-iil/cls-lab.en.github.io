@@ -28,15 +28,16 @@ author_profile: true
 - D3: Toshiyuki Tashiro, Tomohide Masuda
 - D2: Hiroyuki Ogawa, Takahumi Kudo, Natsumi Yoshida
 - M2: Hiroaki Ooeda, Ao Kikuchi
-- M1: Takahashi Remii, Tomoya Nabetani, Nobusawa Ren
+- M1: Remii Takahashi, Tomoya Nabetani, Ren Nobusawa
 - B4: Rio Usami, Aya Shimoyama
+- B3: Mana Uwatoko, Ryosuke Bogaki
 
 ### Terayama group
 - D3: Shuhei Takahata
 - D2: Chin Ka Yin
 - D1: Yuki Murakami, Tatsuya Yoshizawa, Kiichi Yoshimura
 - M2: Tokimu Kadoi, Sayuri Hoshino
-- M1: Taiyo Toita
+- M1: Shotaro Oki, Taiyo Toita
 - B4: Kazuto Ihori, Hikari Tomita, Takatora Nii
 
 # Alumni
